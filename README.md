@@ -59,21 +59,21 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
 ### Head data
-![alt text](image.png)
+![alt text](/image/image.png)
 ### DataSet info
-![alt text](image-1.png)
+![alt text](/image/image-1.png)
 ### Sum of Null values
-![alt text](image-3.png)
+![alt text](/image/image-3.png)
 ### Count of Unique values in Column 'left'
-![alt text](image-4.png)
+![alt text](/image/image-4.png)
 ### Head of transformed dataset
-![alt text](image-5.png)
+![alt text](/image/image-5.png)
 ### Head of variable 'x'
-![alt text](image-6.png)
+![alt text](/image/image-6.png)
 ### Accuracy
-![alt text](image-7.png)
+![alt text](/image/image-7.png)
 ### Prediction
-![alt text](image-8.png)
+![alt text](/image/image-8.png)
 
 
 ## Result:
